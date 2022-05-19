@@ -1,5 +1,20 @@
 # ServerManagerFrontend
 
+Backend for this application:
+https://github.com/MatRoszkowski/ServerManager
+
+App to manage servers.
+![image](https://user-images.githubusercontent.com/25953723/169308146-764df4d1-e738-44e9-ba6f-c3282336e1be.png)
+
+
+
+
+
+
+
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2.
 
 ## Development server
